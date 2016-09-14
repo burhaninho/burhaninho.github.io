@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Antibiotic Resistance Bacteria
+date: 2013-09-18 00:00:00 Z
+layout: post
 ---
 
 The Center for Disease Control has released its [Annual report][1] and the results are staggering, both on context and complexity. CDC estimates that in the United States, more than two million people are sickened every year with antibiotic-resistant bacteria infections, with at least 23,000 dying as a result . The estimates are based on conservative assumptions and are likely minimum estimates . They are the best approximations that can be derived from currently available data.

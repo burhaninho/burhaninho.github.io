@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Liberal Ideas
+date: 2012-02-11 00:00:00 Z
+layout: post
 ---
+
 > Whenever I hear people talking about ** Liberal Ideas, ** I am always astounded that men should love to fool themselves with empty sounds. An Idea should never be liberal; it must be vigorous, positive, and without loose ends so that it may fulfill its divine mission and be productive. The proper place for liberality is the realm of emotions. 
 
 > -- <cite> [Johann Wolfgang Von Goethe][1] </cite>

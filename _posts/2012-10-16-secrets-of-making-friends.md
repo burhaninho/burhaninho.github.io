@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Secrets of Making Friends
+date: 2012-10-16 00:00:00 Z
+layout: post
 ---
+
 A Reddit user gives serious advice on friendship, it stuck with me because i have learnt all this lessons the hard way.
 
 > Do you want a lot of close friends who genuinely care about you? Here&#8217;s my secret:  

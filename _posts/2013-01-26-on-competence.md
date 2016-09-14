@@ -1,7 +1,9 @@
 ---
-layout: post
 title: On Competence
+date: 2013-01-26 00:00:00 Z
+layout: post
 ---
+
 A while ago, I was watching a British TV series called [Junior Doctors: Your Life in Their Hands][1]. I was pretty surprised how many times the young doctors were not sure what to do or perhaps didn&#8217;t know what to do. I say this because our deepest concern in medical school most of the time is if we can be competant enough not to tell our patients &#8220;I don&#8217;t know&#8221; or worse &#8220;I&#8217;m not sure about this&#8221;.  
 It&#8217;s also the reason why most of medical students spend so much of thier time with books, one more book makes us not to miss out one more thing.
 

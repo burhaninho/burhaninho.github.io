@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Hello world!
+date: 2012-01-04 00:00:00 Z
+layout: post
 ---
+
 Hello World! This is my first blog post, Yay!
 
 It goes without saying that everybody blogs these day, be it micro blogging or macro blogging for fun or profit. I have jumped in the bandwagon and joined the crowd. I will be blogging here for a variety of reasons. 

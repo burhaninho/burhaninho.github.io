@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Perfect Spy
+date: 2012-02-20 00:00:00 Z
+layout: post
 ---
+
 [What makes a perfect spy tick?][1]
 
 You are a perfect spy. All you need is a cause.

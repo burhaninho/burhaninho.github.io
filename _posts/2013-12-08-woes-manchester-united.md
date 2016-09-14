@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Woes Of Manchester United
+date: 2013-12-08 00:00:00 Z
+layout: post
 ---
+
 Phil Jones playing in midfield. That says it all.  
 
 The last few games have been disappointing. This season, Manchester United is breaking a lot of records:

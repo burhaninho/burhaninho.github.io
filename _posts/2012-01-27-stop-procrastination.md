@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Learn To Stop Procrastination
+date: 2012-01-27 00:00:00 Z
+layout: post
 ---
+
 The key to [learning][1] to stop **procrastination** is to shift your focus toward concentrating on results. Many people work frantically each day and accomplish very little.  
 It is counterproductive to concentrate on so many tasks that you cannot accomplish, they may cost you time and energy with no results. Many people seem to spend a lot of time and energy only to achieve very few results.  
 

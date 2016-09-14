@@ -1,9 +1,12 @@
 ---
-layout: post
 title: A Tale Of Two Systems
-description: "Eric Li argues for China's one party system, compares and contrasts with electoral democracies around the world, and questions the universal claims of both systems"
-
+date: 2013-10-07 00:00:00 Z
+layout: post
+description: Eric Li argues for China's one party system, compares and contrasts with
+  electoral democracies around the world, and questions the universal claims of both
+  systems
 ---
+
 <iframe src="http://embed.ted.com/talks/eric_x_li_a_tale_of_two_political_systems.html" width="620" height="415" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Recorded at Ted Global in Edinburgh, Scotland. Eric introduces himself, saying that he was born in Shanghai at the height of the cultural revolution. He mentions the story he was told when he was young, A grand story that mentions the linear progression and development of human societies, from primitive society, then slave society, feudalism, capitalism, socialism and finally to communism. He said they were told all societies will end up there at the end, a Utopia. And the Chinese bought it. Disillusioned with life in China, he moved to Berkeley, California to become a hippie. 

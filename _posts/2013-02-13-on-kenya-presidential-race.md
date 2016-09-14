@@ -1,7 +1,9 @@
 ---
-layout: post
 title: On Kenya Presidential Race
+date: 2013-02-13 00:00:00 Z
+layout: post
 ---
+
 I have just watched the first ever Kenya Presidential debate! It was pretty baffling experience because I didn&#8217;t understand how to feel, proud of the fact that I grew up in Kenya or the general rhetoric ( well, bullsh**t) I had to put up through the three hours. The thing is I have missed my VLC player because I would have cut that precious hours into minutes by blasting through the video at 2 times the speed. Patience has never been one of my fortes&#8217;.  
 > Truth is not a commodity in short supply. The problem is, there&#8217;s very little demand for it.
 

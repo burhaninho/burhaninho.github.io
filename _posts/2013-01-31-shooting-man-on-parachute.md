@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Shooting A Man In A Parachute
+date: 2013-01-31 00:00:00 Z
+layout: post
 ---
+
 Charlie Brown was a B-17 Flying Fortress pilot with the 379th Bomber Group at Kimbolton, England. His B-17 was called &#8216;Ye Old Pub&#8217; and was in a terrible state, having been hit by flak and fighters. The compass was damaged and they were flying deeper over enemy territory instead of heading home to Kimbolton.
 
 After flying the B-17 over an enemy airfield, a German pilot named Franz Steigler was ordered to take off and shoot down the B-17. When he got near the B-17, he could not believe his eyes. In his words, he &#8216;had never seen a plane in such a bad state&#8217;. The tail and rear section was severely damaged, and the tail gunner wounded. The top gunner was all over the top of the fuselage. The nose was smashed and there were holes everywhere.

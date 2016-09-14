@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Study Skills For Exam Preparation
+date: 2012-05-28 00:00:00 Z
+layout: post
 ---
+
 There are three main steps that you can take to ensure that you have studied effectively for your tests and exam:
 
 **Prepare a study checklist**

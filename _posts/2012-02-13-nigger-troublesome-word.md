@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 'Nigger: The Strange Career of a Troublesome Word'
+date: 2012-02-13 00:00:00 Z
+layout: post
 ---
+
 [<img title="Hosted by imgur.com" height="300" src="http://i.imgur.com/X3Efz.jpg" float="left" alt="randallkennedybook" />][1]
 
 With all the talk of racism in English football in the last few days, I have decided to grab myself a book on a topic that divides opinions and in which i know very little about. Racism, as far as I&#8217;m concerned, is rampant in all walks of life, though huge progress has been made since the 80&#8242;s. 

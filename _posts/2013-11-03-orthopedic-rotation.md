@@ -1,7 +1,9 @@
 ---
-layout: post
 title: The Orthopedic Rotation
+date: 2013-11-03 00:00:00 Z
+layout: post
 ---
+
 We have completed the so-called comprehensive clinical rotation which included Obstetrics & Gynecology, Ultrasonography, Radiology, Neurology and finally Pediatrics. I have written about the [Neurology][1] clinical rotation. There was hardly anything to write about Ultrasonography and radiology because we spent such a short time with them. Pediatrics were the same in that everything seemed ordinary except for a few congenital defect cases that was passed to the surgery department. I&#8217;m planning on writing about my obstetrics and gynecology experience.
 
 ## Surgery 

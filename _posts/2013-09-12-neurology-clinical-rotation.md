@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Neurology Clinical Rotation
+date: 2013-09-12 00:00:00 Z
+layout: post
 ---
 
 I have been doing the Neurology clinical rotation since August 19. It was a very easy but intense 3 and half weeks. I had started the first day on the wrong foot. For one, The Chinese students I have been doing the rotations with in the previous 6 weeks had all chosen one department to intern for the rest of the year, and sadly the Neurology department wasn&#8217;t one of them. The other reason was for every teacher I had called, I was passed to another one, sometimes to another floor and worse to another building. I finally found the teacher who was responsible for all the students interning at that department, both residents and medical students. The teacher had successively assigned us to two senior students who helped us the first week.

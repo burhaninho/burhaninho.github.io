@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Butch O&#8217;Hare
+date: 2013-01-23 00:00:00 Z
+layout: post
 ---
+
 During the course of World War II, many people gained fame in one way or another. One man was Butch O&#8217;Hare.
 
 He was a fighter pilot assigned to an aircraft carrier in the Pacific. One time his entire squadron was assigned to fly a particular mission. After he was airborne, he looked at his fuel gauge and realized that someone had forgotten to top off his fuel tank. Because of this, he would not have enough fuel to complete his mission and get back to his ship. His flight leader told him to leave formation and return.

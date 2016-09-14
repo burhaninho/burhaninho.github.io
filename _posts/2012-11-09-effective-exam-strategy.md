@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Effective Exam Strategy
+date: 2012-11-09 00:00:00 Z
+layout: post
 ---
+
 **Exams ** are a regular part of the school, college and university life, which is considered to be a flexible form of learning and teaching process that aims at investigation of a student’s knowledge of a particular subject. 
 
 However, nothing makes students gloomier than the prospect of exams. Even the word examination itself makes students shudder.  

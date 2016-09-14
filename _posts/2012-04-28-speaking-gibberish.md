@@ -1,7 +1,9 @@
 ---
-layout: post
 title: We Are All Just Speaking Gibberish
+date: 2012-04-28 00:00:00 Z
+layout: post
 ---
+
 <figure>
     <a href="http://imgur.com/hnRmq"> <img src="http://i.imgur.com/hnRmq.jpg"/></a>
 </figure>	

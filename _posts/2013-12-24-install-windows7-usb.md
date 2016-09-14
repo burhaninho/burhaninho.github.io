@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Install Windows 7 From USB
+date: 2013-12-24 00:00:00 Z
+layout: post
 ---
+
 This is a nifty little guide (code) for preparing your USB Drive to install Windows 7 on your PC i.e install windows 7 from USB drive. There are other ways of doing it but I think this is easy to write down and remember, no installing software that can disappear after a few years. 
 
 **Windows Key + R**; write `cmd` then **Ctrl+ Shift+ Enter**  

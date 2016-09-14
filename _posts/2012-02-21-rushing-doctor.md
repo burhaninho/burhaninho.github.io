@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Rushing Doctor
+date: 2012-02-21 00:00:00 Z
+layout: post
 ---
+
 ![Rushing Doctor][1]  
 A doctor entered the hospital in a hurry after being called in for an urgent surgery. He answered the call as soon as he could, changed his clothes & went directly to the surgery block.
 

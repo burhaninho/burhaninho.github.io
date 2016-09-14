@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Civil Obedience
+date: 2012-02-14 00:00:00 Z
+layout: post
 ---
+
 <figure>
     <img src="http://i.imgur.com/QWnmE.jpg">
 	<figcaption> Civil obedience </figcaption>

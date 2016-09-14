@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Using The Internet For Academic Research
+date: 2012-11-30 00:00:00 Z
+layout: post
 ---
 
 The main problem with using the internet for **academic [research][1]** is that the huge majority of the material posted on the internet is complete garbage. There are all sorts of ludicrous sites run by cranks and lunatics, as well as those set up by well-meaning but ill-informed enthusiasts on various subjects and hobbies. You will also be able to find well written but badly researched and misleading articles generously posted on the web for you to consult. Almost everywhere you look, it seems, you are confronted with wall-to-wall rubbish.

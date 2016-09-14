@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Sir Alex Ferguson Retires
+date: 2013-05-08 00:00:00 Z
+layout: post
 ---
+
 Manchester United will never be the same without him. This is the beginning of the end of an era. He is arguably the best manager we have had. The only worry for me is that he is irreplaceable.
 To remember him I will talk about the best eleven he produced and the best eleven he signed. To produce a player, the player has to be homegrown.
 

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: The Hepatobiliary Rotation
+date: 2013-12-08 00:00:00 Z
+layout: post
 ---
 
 I interned at the Hepatobiliary department for two weeks. I was able to see a lot of operations with more technical precision that requires patience and skill. The doctors in the department were all good to us; we were able to attend more than three surgeries everyday. The Hepatobiliary department doctors are divided into four groups &#8211; each group consists of 1 professor, 2 associate professors, 3 to 4 attending doctors, 2 residents and one student. Each group performs one or two operations everyday. Luckily, I was able to work with one of the best professors in the Hepatobiliary department.

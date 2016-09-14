@@ -1,7 +1,9 @@
 ---
-layout: post
 title: On Somali Government
+date: 2014-02-16 00:00:00 Z
+layout: post
 ---
+
 Last year has been a good year for the Hassan Shiekh Mohamud administration, there were a lot tangible efforts to get the country back on its feet after more than two decades of civil war. There was the international recognition and support for the new government, talk of building up institutions in the country, promises of working with both stakeholders and national leaders, travelling around the world to encourage inward investment into the country especially by the Somali diaspora, photo ops here and there to show the country is working. In other words, a good step has been taken in the right direction. 
 
 Now it seems the administration took two steps behind, and that has been the history of Somalia. Hopes are evaporating and dreams are, well, dreams. The government is undoing all it has done last year. For a start, there is new Prime Minister. Turkey is joining a long list of countries who are frustrated with Somali government. The UN pragmatically speaking, did the right thing lifting the arms embargo to inject confidence in the Somali Army who will go on to battle with Al Shabab, or so the narrative went, and now reports of weapons channeled into the wrong hands by UN Monitoring group is not shocking. The president&#8217;s order for a full investigation into rumors of his death purported to be circulated on the internet, is at best unproductive and at worst gross misuse and negligence of public resources. There is the federal conundrum, with the Baidoa issue brewing behind the scenes and will come to the fore as long as the government chooses sides or turns a blind eye.

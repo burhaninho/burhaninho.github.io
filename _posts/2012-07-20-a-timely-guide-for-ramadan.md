@@ -1,7 +1,9 @@
 ---
-layout: post
 title: A Timely Guide For Ramadan
+date: 2012-07-20 00:00:00 Z
+layout: post
 ---
+
 ## What&#8217;s **Ramadan**? 
 
 Ramadan (Sawm) is one of the five pillars of Islam and the ninth month of the Muslim calendar. The meaning of Sawm is to ‘abstain’. In this month, Allah Subhana Wa Taala (SWT) has made it compulsory that the fasting be observed by day, and he has made the ‘Taraweeh’ (Ramadan nightly prayer) a ‘Sunnah’. Fasting during Ramadan is to abstain from eating, drinking, smoking and conjugal relations from dawn till sunset. 
