@@ -11,8 +11,7 @@ collections:
 highlighter: rouge
 markdown: kramdown
 rdiscount:
-  extensions:
-  - smart
+  extensions: [smart]
 permalink: "/:title.html"
 paginate: 5
 gems:
