@@ -94,7 +94,7 @@ get on with your life, put your television on and turn it up a bit louder.
 
 On Wayne Rooney's transfer request 
 
->Sometimes you look in a field and you see a cow and you think it's a better cow than the one you've got in your own field. It's a fact. Right? And it never really works out that way.
+>Sometimes you look in a field and you see a cow and you think it's a better cow than the one you've got in your own field. It's a fact. Right? And it never really works out that way .
 
 On Cristiano Ronaldo to Real Madrid 
 
