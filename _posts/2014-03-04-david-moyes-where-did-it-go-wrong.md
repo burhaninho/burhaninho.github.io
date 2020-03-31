@@ -1,0 +1,19 @@
+---
+layout: post
+title: David Moyes Where Did It Go Wrong
+---
+A David Moyes Manchester United is toothless, slow, inept, and worst of all seem to deteriorate game by game and competition after competition. At this rate, anyone who will suggest Manchester United will win the champions league is in grounds for a psychiatric evaluation.
+
+Yes, Di Matteo has done it with largely incompetent Chelsea side in the League by grinding out results and mostly the players were up for it. Benetez did with Liverpool in 2005 in a Liverpool side he didn't fancy and rate enough, he showed that by dismantling the whole team bar Gerrard and Carragher within the next two year. However, questions remains unanswered. How can a team who were champions last year now lie in seventh place? There are a lot of answers, both simplified and sometimes bewildering. I will talk about the problems David Moyes is currently facing and offer solutions or hypothesis to overcome them.
+
+## David Moyes 
+He is rigid, one-dimensional, over-confident and sometimes too eager to blame anyone but himself. I believe he is a nice guy, and deserves a chance to manage our club. I also think he already made far too many mistakes, and in these hard times, I'm afraid we may become your Livepool or worse your Leeds United.
+He too has prematurely dismissed an entire backroom staff in a winning team and replaced them with deficient staff, thereby ostracizing some players, Van Persie and Evra hardly look their old-self, Valencia is regressing so is Rafael.
+I think Moyes needs to correct those mistakes, by preferably recruiting new staff. He needs an assistant coach that's well-liked and respected in the game, a strategist if you will in the mold of Carlos Queiroz. He obviously also needs to work on his man-management skills, I think Vidic would have stayed if David Moyes had convinced him.
+
+## Tactics
+We all know Moyes is building the team around Rooney and this has effictively destroyed our game. He is making the team serve Rooney rather than Rooney serving the team, I think Rooney is a poor playmaker because he can easily be marked out of games by the opposition, has no patience, his short passing, through balls and first touch is very poor, and he rarely dribbles like Giggs used to do when he played there. Rooney will do very well in 4-3-3 system where all the front three can interchange position as they see fit, Rooney, RVP, Mata/Januzaj/Nani, two deep central midfielders in Carrick and Fellaini with either Kagawa/Cleverly/Powell infront of them, A flat back four with wing backs rarely going beyond the half way line. When we are attacking, opposition defenders will hardly be able to track the movement of our strikers, and if the midfeilders are on the ball, you have a potent 4 goal scorers who will put it away. Mourinho's Inter team and Lazio play with these system, we employed it with some variations when Ronaldo, Tevez, and Rooney were together but it was mostly to make good use of Rooney and Tevez defending abilities. You remember that 2009 semi-final game, where Ronaldo scored that beautiful free kick and deadly contra attacking goal, we were playing with this system with Ronaldo, Rooney, Park front three, Fletcher, Carrick, and Anderson(fit Anderson, of course), and a flat back with Oshea and Evra rarely venturing forward. We also played the final match with Barcenola with the same system, but Anderson got injured early, Giggs lack of energy and Carrick was played into submission, early goals, we were found out and the team never employed it again, mainly because we sold Ronaldo that summer. Having said all that, I really doubt Moyes will be able to play with such system, let's just hope Queiroz comes back into the team in any capacity after the World Cup. That man was a genius.
+
+I think David Moyes has to solve these two problems to have any chance of managing the team next season.
+
+
