@@ -19,7 +19,7 @@ gems:
 port: 3000
 safe: true
 url: http://burhaninho.com
-baseurl: /
+baseurl: http://burhaninho.com/
 author: Mohamed Burhan
 description: Mohamed Burhan's Home on The Web
 avatar: bio.png
