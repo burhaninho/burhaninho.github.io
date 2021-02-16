@@ -17,6 +17,7 @@ paginate: 5
 gems:
 - jekyll-paginate
 - jekyll-seo-tag
+- jekyll-sitemap
 port: 3000
 safe: true
 url: http://burhaninho.com
