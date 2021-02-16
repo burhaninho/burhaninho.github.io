@@ -7,6 +7,6 @@ title: The Rise and Fall of Bitcoin Billionaire Arthur Hayes
 
 [The Rise and Fall of Bitcoin Billionaire Arthur Hayes](https://www.vanityfair.com/news/2021/02/the-rise-and-fall-of-bitcoin-billionaire-arthur-hayes)
 
-This was an enjoyable read and precisely why I had hesitated investing in bitcoin for a very long time. I remember in 2012 when the bitcoin hype was through the roof and I decided to dig a little deeper, especially how halal it was. After through research, I have concluded it was more a financial instrument for shady characters than it was an investment. Whenever I read stories like this, I never regret reaching that conclusion though I regret losing 16 bitcoins.
+This was an enjoyable read and precisely why I had hesitated investing in bitcoin for a very long time. I remember in 2012 when the bitcoin hype was through the roof and I decided to dig a little deeper, especially how halal it was. After through research, I have concluded it was more a financial instrument for shady characters than it was an investment. Whenever I read stories like this, I never regret reaching that conclusion though I regret losing 16 bitcoins by forgeting its keys. It was worth 60 dollars when I lost it and I don't sweat over it as no one should sweat over losing  60 dollars.
 
  
