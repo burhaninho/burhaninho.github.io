@@ -16,13 +16,23 @@ permalink: "/:title.html"
 paginate: 5
 gems:
 - jekyll-paginate
+- jekyll-seo-tag
 port: 3000
 safe: true
 url: http://burhaninho.com
 baseurl: http://burhaninho.com/
 author: Mohamed Burhan
-description: Mohamed Burhan's Home on The Web
+description: Mohamed Burhan - A Father, Doctor, Lecturer and Entrepreneur based in Kismayo, Jubbaland, Somalia.
 avatar: bio.png
+twitter:
+  username: burhaninho
+social:
+  name: Mohamed Burhan
+  links:
+    - https://twitter.com/burhaninho
+    - https://www.facebook.com/burhaninho
+    - https://www.linkedin.com/in/burhaninho
+    - https://github.com/burhaninho
 email: me@burhaninho.com
 github: burhaninho
 twitter: burhaninho
