@@ -20,7 +20,7 @@ gems:
 port: 3000
 safe: true
 url: http://burhaninho.com
-baseurl: http://burhaninho.com/
+baseurl: /
 author: Mohamed Burhan
 description: Mohamed Burhan - A Father, Doctor, Lecturer and Entrepreneur based in Kismayo, Jubbaland, Somalia.
 avatar: bio.png
