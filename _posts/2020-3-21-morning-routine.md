@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Morning Routine
+description: Mornings are the most important time of the day and this is my morning routine working as medical doctor at Kismayo Medical Center in Kismayo, Somalia.
 ---
 
 
