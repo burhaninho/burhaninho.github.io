@@ -45,7 +45,7 @@ Now that I have graduated and started working as doctor and a medical director a
 
 As you can see my routine is a bit hectic and really depends on a lot of moving parts which I hold no control over, like the amount of patient I see or the order in which I do these tasks. Sometimes, you can be called in the middle of the night into the emergency room and could easily spend 3 hours stabilizing and caring for a patient. However, I try to prioritize my tasks in the following order using the Eisenhower matrix;
 
-![Utilizing the Priority Matrix. The Eisenhower Matrix, also referred to… |  by Hiba Rauf | Medium](https://miro.medium.com/max/1838/1*rQQb_N17a-kDlKxmTeSbjw.png) 
+![The Eisenhower Matrix](static/img/Eisenhower-Matrix.png) 
 
 ### Do First
 
