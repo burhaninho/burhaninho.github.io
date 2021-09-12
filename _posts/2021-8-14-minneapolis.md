@@ -1,7 +1,8 @@
+---
 layout: post
 title: I Have Moved to Minneapolis, MN, USA
 description: I have moved to Minneapolis from Abu Dhabi with my family.
-
+---
 
 I have moved to Minneapolis from Abu Dhabi with my family. I'm happy to make this announcement. As you may have already guessed, especially old readers (i.e my friends), my posts have gotten fewer and I have disappeared from the Internet for sometime. This has to do with how much my life have changed.
 
