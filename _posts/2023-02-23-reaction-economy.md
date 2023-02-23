@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Reaction Economy
+---
+
+> Our public sphere is frequently dominated by events you could call ‘reaction chains’, whereby reactions provoke reactions, which provoke further reactions, and so on. Last year’s Oscars ceremony is remembered for just such a reaction chain. When the host, the comedian Chris Rock, made a joke about Jada Pinkett Smith’s shaved head, her husband, Will Smith, strode up on stage and slapped Rock in the face on live television. For several days afterwards, countless commentators, celebrities and social media users sought to distinguish themselves by their reaction to ‘the slap’. Inevitably, those reactions provoked further reactions, as debate turned to the merits of the positions taken, and suspicion descended on those who hadn’t yet reacted at all. Everyone waited impatiently for the Academy’s official reaction: would Smith be banned, and for how long? The amount of global attention ‘slapgate’ sucked up in the weeks after the ceremony was considerable. One particular detail added a layer of intrigue. As a result of the blanket television surveillance of the celebrities in the auditorium, there was footage of Will Smith’s immediate reaction to Rock’s joke, which had been laughter. This impulsive response appeared entirely at odds with the anger he displayed on stage just a few seconds later. Was he acting? Was ‘the slap’ real? Or had his wife, perhaps, demanded that he step up? Every frame of the video sequence was pored over, as if it were the Zapruder footage of the Kennedy assassination.
+
+[The Reaction Economy](https://www.lrb.co.uk/the-paper/v45/n05/william-davies/the-reaction-economy)
