@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Power of Child-Like Questions: How Simplifying Can Generate New Insights
+title: The Power of Child-Like Questions
 description: Adults ask narrow and complicated questions, hindering knowledge. Adopting child-like curiosity can lead to more enjoyable conversations and new ideas. Physicians need to simplify communication for better care. Learn how to ask better questions and generate new insights.
 ---
 
