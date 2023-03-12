@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Healthcare in Somalia, Challenges and Opportunities for Entrepreneurs
+title: On Healthcare in Somalia
 description: Somalia's healthcare system is struggling due to years of conflict, war, and drought. Entrepreneurs can play a significant role in improving healthcare infrastructure, developing new technologies, and creating innovative financing models. To succeed, entrepreneurs must focus on providing affordable, accessible, and high-quality healthcare services and work closely with local communities, government agencies, and non-profit organizations.
 ---
 
