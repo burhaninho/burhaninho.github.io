@@ -1,5 +1,5 @@
 ---
-title: Mohamed Burhan | A Certified Medical Interpreter
+title: Mohamed Burhan Ismail | A Resident Physician
 timezone: UTC
 collections:
   posts:
@@ -22,8 +22,8 @@ port: 3000
 safe: true
 url: http://burhaninho.com
 baseurl: http://burhaninho.com/
-author: Mohamed Burhan
-description: Mohamed Burhan - A Certified Somali Medical Interpreter in Minneapolis, MN
+author: Mohamed Burhan Ismail
+description: Mohamed Burhan Ismail - Resident Physician
 avatar: bio.png
 twitter:
   username: burhaninho
