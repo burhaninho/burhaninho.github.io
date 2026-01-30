@@ -4,7 +4,7 @@ title: Back Blogging
 description: starting to write on this blog again
 ---
 
-I’ve been meaning to write on this blog for a long time, but honestly, time passed and I forgot this blog existed. Life happens, priorities shift, and before you knew it, this space went quiet.
+I’ve been meaning to write on this blog for a long time, but honestly, time passed and I forgot this blog existed. Life happens and priorities shift.
 
 This year, though, I’m trying to do things differently. I’ve decided to be more disciplined and make an effort to write here again, even if it’s not perfect or consistent.
 
